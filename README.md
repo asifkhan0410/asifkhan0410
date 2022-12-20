@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/khanasif41" target="blank"><img src="https://img.shields.io/twitter/follow/khanasif41?logo=twitter&style=for-the-badge" alt="khanasif41" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, React Native, Web3**
+- 🌱 I’m currently learning **React Native, Solidity**
 
 - 💬 Ask me about **React, UI, UX, Design, Marketing**
 
