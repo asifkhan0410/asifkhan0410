@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/khanasif41" target="blank"><img src="https://img.shields.io/twitter/follow/khanasif41?logo=twitter&style=for-the-badge" alt="khanasif41" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Solidity**
+- 🌱 I’m currently exploring **React Native**
 
-- 💬 Ask me about **React, UI, UX, Design, Marketing**
+- 💬 Ask me about **React, UI, UX, Design, and Marketing**
 
 - 📫 How to reach me **asifkhan0410@gmail.com**
 
